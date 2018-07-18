@@ -1,4 +1,4 @@
-package com.codegen;
+
 public class MainClass{
   public static void main(String arg[])
   {
