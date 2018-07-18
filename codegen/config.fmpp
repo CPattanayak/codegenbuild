@@ -1,0 +1,3 @@
+modes: [execute(*.ftl)]
+replaceExtensions:[ftl,java]
+data:tdd(../data/webservice.tdd)

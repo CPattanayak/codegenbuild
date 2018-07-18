@@ -1,0 +1,7 @@
+{
+  return:"String"
+  val:"res;"
+  methodname:"getResult"
+  params:"String name"
+  body: "String res= \"Hi Chandan\"  ;\n System.out.println(res);"
+}
